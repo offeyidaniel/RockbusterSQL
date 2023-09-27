@@ -11,12 +11,17 @@ A relational database made up of 15 tables contatining data on film rentals, cus
 Language: PostgreSQL Software: pgAdmin, DbVisualizer, Tableau, Excel
 
 # SKILLS DEMONSTRATED
-Cleaning data: checked and addressed duplicates, non-uniform data, and missing values.
+# Cleaning data: 
+checked and addressed duplicates, non-uniform data, and missing values.
 
-# Joining tables: selected the type of joins and sequence of joins in order to minimize the time/memory needed.
+# Joining tables: 
+selected the type of joins and sequence of joins in order to minimize the time/memory needed.
 
-Descriptive Statistics: explored basic descriptive statistics (max/min, mean or mode) for variables and used GROUP BY and ORDER BY to answer more complicated questions.
+# Descriptive Statistics: 
+explored basic descriptive statistics (max/min, mean or mode) for variables and used GROUP BY and ORDER BY to answer more complicated questions.
 
-Coding with Common Table Expressions (CTEs): designed CTEs that would make code more readable and easier to reuse.
+# Coding with Common Table Expressions (CTEs): 
+designed CTEs that would make code more readable and easier to reuse.
 
-Reporting results: a Powerpoint presentation with answers to key questions and recommendations.
+# Reporting results: 
+a Powerpoint presentation with answers to key questions and recommendations.
